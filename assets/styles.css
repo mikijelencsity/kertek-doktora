@@ -221,7 +221,6 @@ img { max-width:100%; }
 .pb-viragos::before { background-image:url('img/kert-viragos.jpg'); }
 .pb-gyep::before { background-image:url('img/gyep.jpg'); }
 .pb-modern::before { background-image:url('img/kert-modern-lawn.jpg'); }
-.pb-ultetes::before { background-image:url('img/ultetes.jpg'); }
 .pb-dus::before { background-image:url('img/kert-dus.jpg'); }
 
 /* ---------- GENERIC SECTION WRAP ---------- */

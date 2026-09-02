@@ -1,6 +1,6 @@
 # Kertek Doktora Kft — weboldal
 
-Statikus, többoldalas bemutatkozó weboldal a **Kertek Doktora Kft.** részére (kertépítés, gyepesítés, kertgondozás — Kray Péter). Nincs build lépés és nincs szükség szerverre: sima HTML + CSS + JS.
+Statikus, többoldalas bemutatkozó weboldal a **Kertek Doktora Kft.** részére (kertépítés, gyepesítés, kertgondozás — Kraly Péter). Nincs build lépés és nincs szükség szerverre: sima HTML + CSS + JS.
 
 ## Oldalak
 
@@ -9,7 +9,7 @@ Statikus, többoldalas bemutatkozó weboldal a **Kertek Doktora Kft.** részére
 | `index.html` | Főoldal (hero, szolgáltatás-kivonat, rólam, referencia-körhinta, vélemények) |
 | `szolgaltatasok.html` | Szolgáltatások — részletes bemutatás |
 | `referenciak.html` | Referenciák — galéria kategóriánként, kattintható nagyítással |
-| `rolam.html` | Rólam — Kray Péter bemutatkozása, munkamódszer |
+| `rolam.html` | Rólam — Kraly Péter bemutatkozása, munkamódszer |
 | `kapcsolat.html` | Kapcsolat — űrlap, elérhetőségek, térkép, GYIK |
 
 ## Felépítés
