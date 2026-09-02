@@ -203,9 +203,8 @@ img { max-width:100%; }
 
 /* ---------- SUBPAGE BANNER ---------- */
 .page-banner {
-  position:relative; margin-top:0; padding:170px 80px 76px; overflow:hidden;
+  position:relative; margin-top:0; padding:170px 80px 72px; overflow:hidden;
   display:flex; align-items:flex-end; min-height:340px;
-  clip-path:polygon(0 0, 100% 0, 100% calc(100% - 40px), 0 100%);
 }
 .page-banner::before { content:""; position:absolute; inset:0; background-size:cover; background-position:center; z-index:0; }
 .page-banner::after { content:""; position:absolute; inset:0; background:linear-gradient(160deg, rgba(24,57,22,0.72), rgba(35,79,32,0.82)); z-index:1; }
