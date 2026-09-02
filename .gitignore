@@ -1,0 +1,10 @@
+# dev / helper artifacts
+.serve.js
+.playwright-mcp/
+*.output
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.log
+node_modules/
